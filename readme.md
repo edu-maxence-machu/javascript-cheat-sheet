@@ -59,39 +59,6 @@ console.log(element);
 // CODE
 ```
 
-## La fonction GetElementByID()
-
-### Que fait la fonction ?
-La méthode getElementById() renvoie un objet qui représente l'élément dont la propriété  id correspond à la chaîne de caractères spécifiée.
-Étant donné que les ID d'élément doivent être uniques, s'ils sont spécifiés, ils constituent un moyen utile d'accéder rapidement à un élément spécifique.
-
-###Pourquoi l'utiliser ?
-La fonction getElementById doit être utilisée si l'on veut utiliser un élément du DOM en HTML grâce à Javascript 
-
-#### Note supplémentaire
-La fonction getElementByID est à ne pas confondre avec la fonction *getElementsByClassName*. 
-Les ID dans une page web sont uniques, on ne peut donc pas récupérer plusieurs éléments avec cette fonction. 
-
-### Exemple de code:
-```javascript
-let element = document.getElementByID('mon-element');
-console.log(element);
-```
-
-## La fonction GetElementsByClassName()
-
-### Que fait la fonction ?
-...
-
-### Pourquoi l'utiliser ?
-...
-
-### Exemple de code:
-```javascript
-// CODE
-```
-
-
 ## La fonction addEventListener()
 
 ### Que fait la fonction ?
