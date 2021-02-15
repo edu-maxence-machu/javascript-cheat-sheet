@@ -20,7 +20,7 @@ Pour compléter le document, vous utiliserez la fonction **fork** de GitHub pour
 La méthode getElementById() renvoie un objet qui représente l'élément dont la propriété  id correspond à la chaîne de caractères spécifiée.
 Étant donné que les ID d'élément doivent être uniques, s'ils sont spécifiés, ils constituent un moyen utile d'accéder rapidement à un élément spécifique.
 
-###Pourquoi l'utiliser ?
+### Pourquoi l'utiliser ?
 La fonction getElementById doit être utilisée si l'on veut utiliser un élément du DOM en HTML grâce à Javascript 
 
 #### Note supplémentaire
